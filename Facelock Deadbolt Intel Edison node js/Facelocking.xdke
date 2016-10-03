@@ -1,0 +1,58 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "currentBuildConfiguration": null,
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "Facelocking.xdk": {
+        "previousModTime": 1475386156000,
+        "modified": 1475386156000,
+        "seen": true,
+        "name": "Facelocking.xdk"
+      },
+      "Facelocking.xdke": {
+        "previousModTime": 1475462975000,
+        "modified": 1475462975000,
+        "seen": true,
+        "name": "Facelocking.xdke"
+      },
+      "README.md": {
+        "previousModTime": 1475386153000,
+        "modified": 1475386153000,
+        "seen": true,
+        "name": "README.md"
+      },
+      "icon.png": {
+        "previousModTime": 1475386153000,
+        "modified": 1475386153000,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1475461856000,
+        "modified": 1475461856000,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1475386153000,
+        "modified": 1475386153000,
+        "seen": true,
+        "name": "package.json"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1475386156000,
+        "modified": 1475386156000,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {}
+  }
+}
